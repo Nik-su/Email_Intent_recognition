@@ -94,10 +94,10 @@ email_text = sys.argv[1]
 
 # Find the model path
 model_paths = [
-    "./results",
-    "./results/checkpoint-3000",
-    "./results/checkpoint-2000",
-    "./results/checkpoint-1000",
+    # "./results",
+    # "./results/checkpoint-3000",
+    "/content/drive/MyDrive/model_log/results/checkpoint-2500"
+    # "./results/checkpoint-1000",
 ]
 
 model_path = None
@@ -108,7 +108,7 @@ for path in model_paths:
 
 # If not found, check for any checkpoint directory
 if model_path is None:
-    results_dir = "./results"
+    results_dir = "email_model/results"
     if os.path.exists(results_dir):
         for item in os.listdir(results_dir):
             item_path = os.path.join(results_dir, item)
