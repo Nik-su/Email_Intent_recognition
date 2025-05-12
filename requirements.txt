@@ -8,3 +8,15 @@ scikit-learn
 fastapi      
 uvicorn   
 pyngrok  
+# NLP Augmentation
+nlpaug
+nltk
+# For T5 paraphrasing
+sentencepiece
+# Additional libraries for robust augmentation
+textaugment
+spacy
+# For back-translation models
+sacremoses
+# Progress bars
+tqdm
