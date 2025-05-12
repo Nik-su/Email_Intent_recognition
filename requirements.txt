@@ -1,38 +1,10 @@
 # Core ML and NLP libraries
 torch
 transformers
-datasets
-evaluate
-accelerate
-
 # Data handling
 pandas
 numpy
 scikit-learn
-# Visualization
-matplotlib
-seaborn
-# Model persistence
-joblib
-# API Framework
-flask
-flask-cors
-
-# Email handling
-imaplib2
-
-# Development tools
-jupyter
-ipython
-
-# Optional but recommended
-python-dotenv # For environment variables
-requests     # For API testing
-tqdm       # Progress bars
-
-# For advanced features (optional)
-fastapi      # Alternative to Flask
-uvicorn     # ASGI server for FastAPI
-# pytest>=7.3.0        # For unit testing
-# black>=23.0.0        # Code formatting
-# flake8>=6.0.0        # Linting
+fastapi      
+uvicorn   
+pyngrok  
