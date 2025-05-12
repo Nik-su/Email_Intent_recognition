@@ -1,0 +1,89 @@
+text,intent
+Analyze these three sales packages - particularly interested in pricing and NOI.,Intent_Sales_Listings_Comparison
+"Hi team, Can you pull together a schedule of important dates for the escrow process on the 125 King St deal? We're especially concerned with closing and due diligence periods. Thanks!",Intent_Transaction_Date_navigator
+Check this lease for missing key protections - worried about maintenance responsibilities.,Intent_Clause_Protect
+Please examine this lease for risky provisions - especially interested in dispute resolution terms.,Intent_Clause_Protect
+Create a transaction calendar for the Broadway project showing all due dates and deadlines.,Intent_Transaction_Date_navigator
+Review the lease amendment and highlight what provisions were added or modified.,Intent_Amendment_Abstraction
+Please extract all important dates from the Park Avenue deal documents - I need a complete schedule.,Intent_Transaction_Date_navigator
+Review the downtown lease for problematic clauses - concerned about liability and maintenance terms.,Intent_Clause_Protect
+Could you do a background check on Wexford Corp before we proceed? I'm particularly interested in any public disputes or bankruptcies in the past 5 years.,Intent_Company_research
+"Compare these three office building listings - need pricing, cap rates, and PSF analysis.",Intent_Sales_Listings_Comparison
+Compare the retail lease listings - interested in base rent and escalation clauses.,Intent_Lease_Listings_Comparison
+What's different in this lease amendment? Need to see all changes from original.,Intent_Amendment_Abstraction
+Check the track record of Downtown Ventures - any legal issues or payment problems?,Intent_Company_research
+Compare the three industrial lease options - need rate and term comparisons.,Intent_Lease_Listings_Comparison
+Need comparison of these warehouse lease opportunities - rates and terms analysis.,Intent_Lease_Listings_Comparison
+Summarize alterations in the Second Amendment to the Beverly Hills office lease.,Intent_Amendment_Abstraction
+Create an abstract of the Seattle office lease focusing on financial and term information.,Intent_Lease_Abstraction
+Analyze these retail lease opportunities - which has the best terms and pricing?,Intent_Lease_Listings_Comparison
+Investigate Coastal Properties Group - particularly interested in any regulatory issues.,Intent_Company_research
+Compare the broker materials for the office tower - focus on financial metrics.,Intent_Sales_Listings_Comparison
+"What are the critical dates in our 55 Wall St transaction? Need to see escrow, inspection, and closing dates.",Intent_Transaction_Date_navigator
+"Abstract the important details from the Cincinnati retail lease - base rent, escalations, options.",Intent_Lease_Abstraction
+Analyze differences between the proposed LOI and signed lease - focus on financial terms.,Intent_Comparison_LOI_Lease
+"Extract key lease terms from the Park Place property - need rent, dates, and renewal options.",Intent_Lease_Abstraction
+Can someone create a calendar of key dates for our downtown property transaction? Closing is next month.,Intent_Transaction_Date_navigator
+Abstract the changes in Amendment 4 - particularly interested in new restrictions.,Intent_Amendment_Abstraction
+Please summarize the changes from the latest amendment to the original lease for the Grandview Tower property.,Intent_Amendment_Abstraction
+Need a side-by-side of the LOI and final lease - show me all modifications and additions.,Intent_Comparison_LOI_Lease
+"Pull out key information from the Miami office lease - rent schedule, term, and tenant responsibilities.",Intent_Lease_Abstraction
+Please abstract the essential terms from the San Francisco lease - need full financial details.,Intent_Lease_Abstraction
+Compare the initial LOI with the final document - highlight all term changes.,Intent_Comparison_LOI_Lease
+Identify deviations between our original intent and the final lease terms.,Intent_Comparison_LOI_Lease
+What dates should we be tracking for the Chicago warehouse deal? Need a full timeline.,Intent_Transaction_Date_navigator
+Show me the changes between the LOI and executed lease for the State Street property.,Intent_Comparison_LOI_Lease
+Extract key data points from the Portland retail lease - particularly interested in rent structure.,Intent_Lease_Abstraction
+Compare the lease listings we received for Midtown West. Looking to identify which has the most favorable terms per sq ft.,Intent_Lease_Listings_Comparison
+Need due diligence on Manhattan Development Group - any red flags in their background?,Intent_Company_research
+Abstract the key changes from the First Amendment to the Central Park lease.,Intent_Amendment_Abstraction
+Can you identify any unfavorable terms in this lease? Especially looking at breach and penalty clauses.,Intent_Clause_Protect
+Analyze our three listing options for the warehouse - compare asking prices and cap rates.,Intent_Sales_Listings_Comparison
+Can you flag any concerning clauses in the Times Square office lease? Particularly around penalties.,Intent_Clause_Protect
+Create a comparison between our letter of intent and the final signed lease agreement.,Intent_Comparison_LOI_Lease
+I need a complete timeline for the Hudson Yards deal - particularly interested in financing deadlines.,Intent_Transaction_Date_navigator
+Analyze the lease terms for potential issues - focus on subletting rights and assignment restrictions.,Intent_Clause_Protect
+"Compare the signed lease to the LOI we submitted last month. I want to know what terms got changed or added, especially around TI allowances.",Intent_Comparison_LOI_Lease
+Please compile all deadline dates for the Boston office transaction - closing is in 6 weeks.,Intent_Transaction_Date_navigator
+Compare the executed lease with our original LOI - identify what changed in negotiations.,Intent_Comparison_LOI_Lease
+Need help creating a timeline for the Metro Tower closing - especially milestone dates and deadlines.,Intent_Transaction_Date_navigator
+Analyze the different broker packages for the retail center - focus on valuation metrics.,Intent_Sales_Listings_Comparison
+"We have three broker sales packages for the 42nd St building. Can you give me a side-by-side summary of pricing, cap rate, and avg. PSF?",Intent_Sales_Listings_Comparison
+Research Empire Property Management's history - check for any tenant disputes.,Intent_Company_research
+"Summarize the main provisions of the Phoenix office lease - rent, term, and options.",Intent_Lease_Abstraction
+Compare available office spaces downtown - focus on lease terms and rates per square foot.,Intent_Lease_Listings_Comparison
+Compare these lease opportunities - show me the best terms per square foot.,Intent_Lease_Listings_Comparison
+Need company research on Hudson Bay Realty - focus on their reputation and stability.,Intent_Company_research
+Need a comparison of LOI vs final lease - particularly around tenant improvement allowances.,Intent_Comparison_LOI_Lease
+Investigate Global Real Estate Partners - particularly interested in recent court cases.,Intent_Company_research
+Show what changed from LOI to lease execution - especially interested in rent concessions.,Intent_Comparison_LOI_Lease
+Analyze available office spaces - compare lease rates and tenant improvement allowances.,Intent_Lease_Listings_Comparison
+Build me a schedule of important milestones for the retail space acquisition on 5th Avenue.,Intent_Transaction_Date_navigator
+Compare these sales listings side-by-side - interested in price and square footage details.,Intent_Sales_Listings_Comparison
+Review the retail lease for unfavorable terms - need to identify any risky provisions.,Intent_Clause_Protect
+Compare our letter of intent with the final agreement - what got negotiated differently?,Intent_Comparison_LOI_Lease
+Please highlight what changed in this lease amendment versus the base agreement.,Intent_Amendment_Abstraction
+Summarize what changed in the latest lease amendment for the Capitol building.,Intent_Amendment_Abstraction
+Research ABC Properties before we finalize - check financial stability and litigation history.,Intent_Company_research
+"Compare the investment summaries - show pricing, cap rates, and value per square foot.",Intent_Sales_Listings_Comparison
+Due diligence needed on Midwest Commercial Real Estate - look for financial red flags.,Intent_Company_research
+"Need a lease summary for the Dallas warehouse - extract rent, dates, and critical provisions.",Intent_Lease_Abstraction
+Analyze these office lease options - which offers the best value per square foot?,Intent_Lease_Listings_Comparison
+Extract new terms from Amendment #3 - show me what differs from the original lease.,Intent_Amendment_Abstraction
+Extract modifications from the latest amendment - focus on financial and term changes.,Intent_Amendment_Abstraction
+Compare offerings for the retail space - need cap rate and PSF comparisons.,Intent_Sales_Listings_Comparison
+Abstract the key terms from the Atlanta warehouse lease - focusing on rates and escalations.,Intent_Lease_Abstraction
+Please summarize the main provisions of the attached office lease - particularly financial terms.,Intent_Lease_Abstraction
+"Hey, I'm reviewing the lease on the 3rd Avenue property. Can you check if there are any red flags—like missing indemnity clauses or unfavorable assignment terms?",Intent_Clause_Protect
+Research the financial strength of Urban Properties Inc before we proceed with the lease.,Intent_Company_research
+"Review the new lease draft for red flags, particularly around common area charges and escalations.",Intent_Clause_Protect
+"Please abstract the lease for the Johnson project (PDF attached). We need to know the base rent, commencement and expiry dates, renewal options, and escalation schedule.",Intent_Lease_Abstraction
+I need a clause review on the Brooklyn warehouse lease - looking for gaps in tenant protections.,Intent_Clause_Protect
+"Side-by-side of these commercial leases - show rates, concessions, and key terms.",Intent_Lease_Listings_Comparison
+Side-by-side analysis needed for these property listings - pricing and cash flow data.,Intent_Sales_Listings_Comparison
+Compare available spaces in midtown - focus on rent and lease flexibility.,Intent_Lease_Listings_Comparison
+Check the Madison Avenue lease for missing protections - need to see if we have adequate coverage.,Intent_Clause_Protect
+Need a summary of changes in the recent lease modification - what's new or different?,Intent_Amendment_Abstraction
+Need a comparison of these investment opportunities - show pricing and yield data.,Intent_Sales_Listings_Comparison
+"Extract all key dates from the office building purchase agreement - closing, contingencies, everything.",Intent_Transaction_Date_navigator
+Run a background check on Metro Commercial LLC - check for bankruptcies or disputes.,Intent_Company_research
